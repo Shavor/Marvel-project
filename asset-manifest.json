@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Marvel-project/static/css/main.86461885.chunk.css",
+    "main.js": "/Marvel-project/static/js/main.8a32055b.chunk.js",
+    "main.js.map": "/Marvel-project/static/js/main.8a32055b.chunk.js.map",
+    "runtime-main.js": "/Marvel-project/static/js/runtime-main.07b0bfdd.js",
+    "runtime-main.js.map": "/Marvel-project/static/js/runtime-main.07b0bfdd.js.map",
+    "static/js/2.2b6efd15.chunk.js": "/Marvel-project/static/js/2.2b6efd15.chunk.js",
+    "static/js/2.2b6efd15.chunk.js.map": "/Marvel-project/static/js/2.2b6efd15.chunk.js.map",
+    "index.html": "/Marvel-project/index.html",
+    "static/css/main.86461885.chunk.css.map": "/Marvel-project/static/css/main.86461885.chunk.css.map",
+    "static/js/2.2b6efd15.chunk.js.LICENSE.txt": "/Marvel-project/static/js/2.2b6efd15.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/Marvel-project/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/Marvel-project/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/Marvel-project/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b0bfdd.js",
+    "static/js/2.2b6efd15.chunk.js",
+    "static/css/main.86461885.chunk.css",
+    "static/js/main.8a32055b.chunk.js"
+  ]
+}
